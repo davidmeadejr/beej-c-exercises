@@ -1,1 +1,0 @@
-# beej-c-exercises
